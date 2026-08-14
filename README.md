@@ -20,7 +20,12 @@
     <td align="center"><strong>Running / working</strong><br><img src="previews/running.gif" alt="Working animation" width="160"></td>
     <td align="center"><strong>Review</strong><br><img src="previews/review.gif" alt="Review animation" width="160"></td>
   </tr>
+  <tr>
+    <td align="center" colspan="3"><strong>Look — 16 directions</strong><br><img src="previews/look.gif" alt="16-direction look animation" width="160"></td>
+  </tr>
 </table>
+
+All previews above are rendered directly from the packaged `spritesheet.webp`.
 
 ## Installation
 
